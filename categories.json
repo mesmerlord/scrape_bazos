@@ -1,0 +1,2034 @@
+[
+    {
+        "name": "Zvierat\u00e1",
+        "url": "https://zvierata.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/zvierata.png",
+        "sub_categories": [
+            {
+                "name": "Akvarijn\u00e9 rybi\u010dky",
+                "url": "https://zvierata.bazos.sk/ryba/"
+            },
+            {
+                "name": "Drobn\u00e9 cicavce",
+                "url": "https://zvierata.bazos.sk/cicavec/"
+            },
+            {
+                "name": "Kone",
+                "url": "https://zvierata.bazos.sk/kon/"
+            },
+            {
+                "name": "Kone - potreby",
+                "url": "https://zvierata.bazos.sk/konepotreby/"
+            },
+            {
+                "name": "Kone - slu\u017eby",
+                "url": "https://zvierata.bazos.skhttps://sluzby.bazos.sk/ustajnenie/"
+            },
+            {
+                "name": "Ma\u010dky",
+                "url": "https://zvierata.bazos.sk/macka/"
+            },
+            {
+                "name": "Psy",
+                "url": "https://zvierata.bazos.sk/pes/"
+            },
+            {
+                "name": "Vt\u00e1ctvo",
+                "url": "https://zvierata.bazos.sk/vtak/"
+            },
+            {
+                "name": "Ter\u00e1rijn\u00e9 zvierat\u00e1",
+                "url": "https://zvierata.bazos.sk/zviera/"
+            },
+            {
+                "name": "Ostatn\u00e9 dom\u00e1ce",
+                "url": "https://zvierata.bazos.sk/ostatnidomaci/"
+            },
+            {
+                "name": "Krytie",
+                "url": "https://zvierata.bazos.sk/kryti/"
+            },
+            {
+                "name": "Straten\u00ed a n\u00e1jden\u00ed",
+                "url": "https://zvierata.bazos.sk/strateni/"
+            },
+            {
+                "name": "Chovate\u013esk\u00e9 potreby",
+                "url": "https://zvierata.bazos.sk/potreby/"
+            },
+            {
+                "name": "Slu\u017eby pre zvierat\u00e1",
+                "url": "https://zvierata.bazos.skhttps://sluzby.bazos.sk/zvierata/"
+            },
+            {
+                "name": "Hydina",
+                "url": "https://zvierata.bazos.sk/hydina/"
+            },
+            {
+                "name": "Kr\u00e1liky",
+                "url": "https://zvierata.bazos.sk/kralik/"
+            },
+            {
+                "name": "Ovce a kozy",
+                "url": "https://zvierata.bazos.sk/koza/"
+            },
+            {
+                "name": "Prasat\u00e1",
+                "url": "https://zvierata.bazos.sk/prase/"
+            },
+            {
+                "name": "Dobytok",
+                "url": "https://zvierata.bazos.sk/dobytok/"
+            },
+            {
+                "name": "Ostatn\u00e9 hospod\u00e1rske",
+                "url": "https://zvierata.bazos.sk/ostatnihospodarska/"
+            }
+        ]
+    },
+    {
+        "name": "Deti",
+        "url": "https://deti.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/deti.png",
+        "sub_categories": [
+            {
+                "name": "Autoseda\u010dky",
+                "url": "https://deti.bazos.sk/autosedacky/"
+            },
+            {
+                "name": "Baby monitory",
+                "url": "https://deti.bazos.sk/baby/"
+            },
+            {
+                "name": "Bicykle",
+                "url": "https://deti.bazos.sk/bicykle/"
+            },
+            {
+                "name": "Detsk\u00e1 literat\u00fara",
+                "url": "https://deti.bazos.skhttps://knihy.bazos.sk/detska/"
+            },
+            {
+                "name": "Hra\u010dky",
+                "url": "https://deti.bazos.sk/hracky/"
+            },
+            {
+                "name": "Chod\u00edtka a hopsadl\u00e1",
+                "url": "https://deti.bazos.sk/choditka/"
+            },
+            {
+                "name": "Ko\u010d\u00edky",
+                "url": "https://deti.bazos.sk/kociky/"
+            },
+            {
+                "name": "Kojeneck\u00e9 potreby",
+                "url": "https://deti.bazos.sk/kojenecke/"
+            },
+            {
+                "name": "N\u00e1bytok pre deti",
+                "url": "https://deti.bazos.sk/nabytok/"
+            },
+            {
+                "name": "Nosi\u010de",
+                "url": "https://deti.bazos.sk/nositka/"
+            },
+            {
+                "name": "Odr\u00e1\u017eadl\u00e1",
+                "url": "https://deti.bazos.sk/odrazadla/"
+            },
+            {
+                "name": "Seda\u010dky na bicykel",
+                "url": "https://deti.bazos.sk/sedacky/"
+            },
+            {
+                "name": "\u0160portov\u00e9 potreby",
+                "url": "https://deti.bazos.sk/sportove/"
+            },
+            {
+                "name": "\u0160kolsk\u00e9 potreby",
+                "url": "https://deti.bazos.sk/skolske/"
+            },
+            {
+                "name": "Str\u00e1\u017eenie det\u00ed",
+                "url": "https://deti.bazos.skhttps://sluzby.bazos.sk/strazenie/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://deti.bazos.sk/ostatne/"
+            },
+            {
+                "name": "Body, dupa\u010dky a overaly",
+                "url": "https://deti.bazos.sk/dupacky/"
+            },
+            {
+                "name": "Bundy a kab\u00e1tiky",
+                "url": "https://deti.bazos.sk/bundy/"
+            },
+            {
+                "name": "\u010ciapky a klob\u00fa\u010diky",
+                "url": "https://deti.bazos.sk/ciapky/"
+            },
+            {
+                "name": "Nohavice, kra\u0165asy a tepl\u00e1ky",
+                "url": "https://deti.bazos.sk/nohavice/"
+            },
+            {
+                "name": "Kombin\u00e9zy",
+                "url": "https://deti.bazos.sk/kombinezy/"
+            },
+            {
+                "name": "Komplety",
+                "url": "https://deti.bazos.sk/komplety/"
+            },
+            {
+                "name": "Mikiny a svetre",
+                "url": "https://deti.bazos.sk/mikiny/"
+            },
+            {
+                "name": "Obuv",
+                "url": "https://deti.bazos.sk/obuv/"
+            },
+            {
+                "name": "Plavky",
+                "url": "https://deti.bazos.sk/plavky/"
+            },
+            {
+                "name": "Pono\u017eky a pan\u010du\u0161ky",
+                "url": "https://deti.bazos.sk/ponozky/"
+            },
+            {
+                "name": "Py\u017eamk\u00e1 a \u017eupan\u010deky",
+                "url": "https://deti.bazos.sk/pyzamka/"
+            },
+            {
+                "name": "Rukavice a \u0161\u00e1ly",
+                "url": "https://deti.bazos.sk/rukavice/"
+            },
+            {
+                "name": "Spodn\u00e1 bielize\u0148",
+                "url": "https://deti.bazos.sk/bielizen/"
+            },
+            {
+                "name": "Sukni\u010dky a \u0161ato\u010dky",
+                "url": "https://deti.bazos.sk/suknicky/"
+            },
+            {
+                "name": "Tehotensk\u00e9 oble\u010denie",
+                "url": "https://deti.bazos.skhttps://oblecenie.bazos.sk/tehulky/"
+            },
+            {
+                "name": "Tri\u010dk\u00e1 a ko\u0161ie\u013eky",
+                "url": "https://deti.bazos.sk/tricka/"
+            },
+            {
+                "name": "Ostatn\u00e9 oble\u010denie",
+                "url": "https://deti.bazos.sk/oblecenie/"
+            }
+        ]
+    },
+    {
+        "name": "Reality",
+        "url": "https://reality.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/reality.png",
+        "sub_categories": [
+            {
+                "name": "Byty",
+                "url": "https://reality.bazos.sk/predam/byt/"
+            },
+            {
+                "name": "Domy",
+                "url": "https://reality.bazos.sk/predam/dom/"
+            },
+            {
+                "name": "Nov\u00e9 projekty",
+                "url": "https://reality.bazos.sk/predam/projekty/"
+            },
+            {
+                "name": "Gar\u00e1\u017ee",
+                "url": "https://reality.bazos.sk/predam/garaz/"
+            },
+            {
+                "name": "Hotely, re\u0161taur\u00e1cie",
+                "url": "https://reality.bazos.sk/predam/restauracie/"
+            },
+            {
+                "name": "Chalupy, Chaty",
+                "url": "https://reality.bazos.sk/predam/chata/"
+            },
+            {
+                "name": "Kancel\u00e1rie",
+                "url": "https://reality.bazos.sk/predam/kancelar/"
+            },
+            {
+                "name": "Obchodn\u00e9 priestory",
+                "url": "https://reality.bazos.sk/predam/priestory/"
+            },
+            {
+                "name": "Pozemky",
+                "url": "https://reality.bazos.sk/predam/pozemok/"
+            },
+            {
+                "name": "Sklady",
+                "url": "https://reality.bazos.sk/predam/sklad/"
+            },
+            {
+                "name": "Z\u00e1hrady",
+                "url": "https://reality.bazos.sk/predam/zahrada/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://reality.bazos.sk/predam/ostatni/"
+            },
+            {
+                "name": "Byty",
+                "url": "https://reality.bazos.sk/prenajmu/byt/"
+            },
+            {
+                "name": "Domy",
+                "url": "https://reality.bazos.sk/prenajmu/dom/"
+            },
+            {
+                "name": "Nov\u00e9 projekty",
+                "url": "https://reality.bazos.sk/prenajmu/projekty/"
+            },
+            {
+                "name": "Podn\u00e1jom, spolub\u00fdvaj\u00faci",
+                "url": "https://reality.bazos.sk/prenajmu/podnajom/"
+            },
+            {
+                "name": "Gar\u00e1\u017ee",
+                "url": "https://reality.bazos.sk/prenajmu/garaz/"
+            },
+            {
+                "name": "Hotely, re\u0161taur\u00e1cie",
+                "url": "https://reality.bazos.sk/prenajmu/restauracie/"
+            },
+            {
+                "name": "Ubytovanie",
+                "url": "https://reality.bazos.skhttps://sluzby.bazos.sk/ubytovanie/"
+            },
+            {
+                "name": "Kancel\u00e1rie",
+                "url": "https://reality.bazos.sk/prenajmu/kancelar/"
+            },
+            {
+                "name": "Obchodn\u00e9 priestory",
+                "url": "https://reality.bazos.sk/prenajmu/priestory/"
+            },
+            {
+                "name": "Pozemky",
+                "url": "https://reality.bazos.sk/prenajmu/pozemok/"
+            },
+            {
+                "name": "Sklady",
+                "url": "https://reality.bazos.sk/prenajmu/sklad/"
+            },
+            {
+                "name": "Z\u00e1hrady",
+                "url": "https://reality.bazos.sk/prenajmu/zahrada/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://reality.bazos.sk/prenajmu/ostatni/"
+            }
+        ]
+    },
+    {
+        "name": "Pr\u00e1ca",
+        "url": "https://praca.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/praca.png",
+        "sub_categories": [
+            {
+                "name": "Administrat\u00edva",
+                "url": "https://praca.bazos.sk/administrativa/"
+            },
+            {
+                "name": "Ch\u00e9mia a potravin\u00e1rstvo",
+                "url": "https://praca.bazos.sk/potravinarstvo/"
+            },
+            {
+                "name": "Doprava a logistika",
+                "url": "https://praca.bazos.sk/logistika/"
+            },
+            {
+                "name": "Financie a ekonomika",
+                "url": "https://praca.bazos.sk/financie/"
+            },
+            {
+                "name": "IT a telekomunik\u00e1cie",
+                "url": "https://praca.bazos.sk/it/"
+            },
+            {
+                "name": "Marketing a reklama",
+                "url": "https://praca.bazos.sk/marketing/"
+            },
+            {
+                "name": "Management",
+                "url": "https://praca.bazos.sk/management/"
+            },
+            {
+                "name": "Obchod a predaj",
+                "url": "https://praca.bazos.sk/obchod/"
+            },
+            {
+                "name": "Obrana a bezpe\u010dnos\u0165",
+                "url": "https://praca.bazos.sk/bezpecnost/"
+            },
+            {
+                "name": "Pohostinstv\u00e1 a ubytovanie",
+                "url": "https://praca.bazos.sk/ubytovanie/"
+            },
+            {
+                "name": "Pr\u00e1ca v dom\u00e1cnosti",
+                "url": "https://praca.bazos.sk/domacnost/"
+            },
+            {
+                "name": "Pr\u00e1vo, legislat\u00edva",
+                "url": "https://praca.bazos.sk/pravo/"
+            },
+            {
+                "name": "Priemysel a v\u00fdroba",
+                "url": "https://praca.bazos.sk/priemysel/"
+            },
+            {
+                "name": "Remeseln\u00e9 pr\u00e1ce",
+                "url": "https://praca.bazos.sk/remeslo/"
+            },
+            {
+                "name": "Servis a slu\u017eby",
+                "url": "https://praca.bazos.sk/sluzby/"
+            },
+            {
+                "name": "Stavebn\u00edctvo",
+                "url": "https://praca.bazos.sk/stavebnictvo/"
+            },
+            {
+                "name": "Technika a energetika",
+                "url": "https://praca.bazos.sk/technika/"
+            },
+            {
+                "name": "Tla\u010d a polygrafia",
+                "url": "https://praca.bazos.sk/tlac/"
+            },
+            {
+                "name": "V\u00fdskum a v\u00fdvoj",
+                "url": "https://praca.bazos.sk/vyskum/"
+            },
+            {
+                "name": "Vzdel\u00e1v\u00e1nie a personalistika",
+                "url": "https://praca.bazos.sk/personalistika/"
+            },
+            {
+                "name": "Zdravotn\u00edctvo",
+                "url": "https://praca.bazos.sk/zdravotnictvo/"
+            },
+            {
+                "name": "Po\u013enohospod\u00e1rstvo",
+                "url": "https://praca.bazos.sk/polnohospodarstvo/"
+            },
+            {
+                "name": "Brig\u00e1dy",
+                "url": "https://praca.bazos.sk/brigada/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://praca.bazos.sk/ostatni/"
+            }
+        ]
+    },
+    {
+        "name": "Auto",
+        "url": "https://auto.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/auto.png",
+        "sub_categories": [
+            {
+                "name": "Alfa Romeo",
+                "url": "https://auto.bazos.sk/alfa/"
+            },
+            {
+                "name": "Audi",
+                "url": "https://auto.bazos.sk/audi/"
+            },
+            {
+                "name": "BMW",
+                "url": "https://auto.bazos.sk/bmw/"
+            },
+            {
+                "name": "Citro\u00ebn",
+                "url": "https://auto.bazos.sk/citroen/"
+            },
+            {
+                "name": "Dacia",
+                "url": "https://auto.bazos.sk/dacia/"
+            },
+            {
+                "name": "Fiat",
+                "url": "https://auto.bazos.sk/fiat/"
+            },
+            {
+                "name": "Ford",
+                "url": "https://auto.bazos.sk/ford/"
+            },
+            {
+                "name": "Honda",
+                "url": "https://auto.bazos.sk/honda/"
+            },
+            {
+                "name": "Hyundai",
+                "url": "https://auto.bazos.sk/hyundai/"
+            },
+            {
+                "name": "Chevrolet",
+                "url": "https://auto.bazos.sk/chevrolet/"
+            },
+            {
+                "name": "Kia",
+                "url": "https://auto.bazos.sk/kia/"
+            },
+            {
+                "name": "Mazda",
+                "url": "https://auto.bazos.sk/mazda/"
+            },
+            {
+                "name": "Mercedes-Benz",
+                "url": "https://auto.bazos.sk/mercedes/"
+            },
+            {
+                "name": "Mitsubishi",
+                "url": "https://auto.bazos.sk/mitsubishi/"
+            },
+            {
+                "name": "Nissan",
+                "url": "https://auto.bazos.sk/nissan/"
+            },
+            {
+                "name": "Opel",
+                "url": "https://auto.bazos.sk/opel/"
+            },
+            {
+                "name": "Peugeot",
+                "url": "https://auto.bazos.sk/peugeot/"
+            },
+            {
+                "name": "Renault",
+                "url": "https://auto.bazos.sk/renault/"
+            },
+            {
+                "name": "Seat",
+                "url": "https://auto.bazos.sk/seat/"
+            },
+            {
+                "name": "Suzuki",
+                "url": "https://auto.bazos.sk/suzuki/"
+            },
+            {
+                "name": "\u0160koda",
+                "url": "https://auto.bazos.sk/skoda/"
+            },
+            {
+                "name": "Toyota",
+                "url": "https://auto.bazos.sk/toyota/"
+            },
+            {
+                "name": "Volkswagen",
+                "url": "https://auto.bazos.sk/volkswagen/"
+            },
+            {
+                "name": "Volvo",
+                "url": "https://auto.bazos.sk/volvo/"
+            },
+            {
+                "name": "Ostatn\u00e9 zna\u010dky",
+                "url": "https://auto.bazos.sk/ostatni/"
+            },
+            {
+                "name": "Autor\u00e1di\u00e1",
+                "url": "https://auto.bazos.skhttps://elektro.bazos.sk/autoradia/"
+            },
+            {
+                "name": "GPS navig\u00e1cia",
+                "url": "https://auto.bazos.skhttps://pc.bazos.sk/gps/"
+            },
+            {
+                "name": "Havarovan\u00e9",
+                "url": "https://auto.bazos.sk/havarovana/"
+            },
+            {
+                "name": "N\u00e1hradn\u00e9 diely",
+                "url": "https://auto.bazos.sk/nahradnidily/"
+            },
+            {
+                "name": "Pneumatiky, koles\u00e1",
+                "url": "https://auto.bazos.sk/pneumatiky/"
+            },
+            {
+                "name": "Pr\u00edslu\u0161enstvo",
+                "url": "https://auto.bazos.sk/prislusenstvo/"
+            },
+            {
+                "name": "Tuning",
+                "url": "https://auto.bazos.sk/tuning/"
+            },
+            {
+                "name": "Veter\u00e1ny",
+                "url": "https://auto.bazos.sk/veterany/"
+            },
+            {
+                "name": "Autobusy",
+                "url": "https://auto.bazos.sk/autobusy/"
+            },
+            {
+                "name": "Dod\u00e1vky",
+                "url": "https://auto.bazos.sk/dodavka/"
+            },
+            {
+                "name": "Mikrobusy",
+                "url": "https://auto.bazos.sk/mikrobus/"
+            },
+            {
+                "name": "Karavany, voz\u00edky",
+                "url": "https://auto.bazos.sk/karavany/"
+            },
+            {
+                "name": "N\u00e1kladn\u00e9 aut\u00e1",
+                "url": "https://auto.bazos.sk/nakladne/"
+            },
+            {
+                "name": "Pick-up",
+                "url": "https://auto.bazos.sk/pickup/"
+            },
+            {
+                "name": "Stroje",
+                "url": "https://auto.bazos.skhttps://stroje.bazos.sk/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://auto.bazos.sk/ostatniuzitkova/"
+            },
+            {
+                "name": "Havarovan\u00e9",
+                "url": "https://auto.bazos.sk/havarovanauzitkova/"
+            },
+            {
+                "name": "N\u00e1hradn\u00e9 diely",
+                "url": "https://auto.bazos.sk/nahradnidilyuzitkova/"
+            },
+            {
+                "name": "Motocykle, Sk\u00fatre",
+                "url": "https://auto.bazos.skhttps://motocykle.bazos.sk/"
+            }
+        ]
+    },
+    {
+        "name": "Motocykle",
+        "url": "https://motocykle.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/motocykle.png",
+        "sub_categories": [
+            {
+                "name": "Cestn\u00e9 motocykle",
+                "url": "https://motocykle.bazos.sk/cestne/"
+            },
+            {
+                "name": "Cestovn\u00e9 motocykle",
+                "url": "https://motocykle.bazos.sk/cestovne/"
+            },
+            {
+                "name": "Enduro",
+                "url": "https://motocykle.bazos.sk/enduro/"
+            },
+            {
+                "name": "Chopper",
+                "url": "https://motocykle.bazos.sk/chopper/"
+            },
+            {
+                "name": "Minibike",
+                "url": "https://motocykle.bazos.sk/minibike/"
+            },
+            {
+                "name": "Mopedy",
+                "url": "https://motocykle.bazos.sk/mopedy/"
+            },
+            {
+                "name": "Sk\u00fatre",
+                "url": "https://motocykle.bazos.sk/skutre/"
+            },
+            {
+                "name": "Sk\u00fatre vodn\u00e9",
+                "url": "https://motocykle.bazos.sk/vodne/"
+            },
+            {
+                "name": "Sk\u00fatre sne\u017en\u00e9",
+                "url": "https://motocykle.bazos.sk/snezne/"
+            },
+            {
+                "name": "\u0160tvorkolky",
+                "url": "https://motocykle.bazos.sk/stvorkolky/"
+            },
+            {
+                "name": "Trojkolky",
+                "url": "https://motocykle.bazos.sk/trojkolky/"
+            },
+            {
+                "name": "Veter\u00e1ny",
+                "url": "https://motocykle.bazos.sk/veterany/"
+            },
+            {
+                "name": "N\u00e1hradn\u00e9 diely",
+                "url": "https://motocykle.bazos.sk/diely/"
+            },
+            {
+                "name": "Oble\u010denie, obuv, helmy",
+                "url": "https://motocykle.bazos.sk/helmy/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://motocykle.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Stroje",
+        "url": "https://stroje.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/stroje.png",
+        "sub_categories": [
+            {
+                "name": "\u010cerpadl\u00e1",
+                "url": "https://stroje.bazos.sk/cerpadla/"
+            },
+            {
+                "name": "\u010cistiace stroje",
+                "url": "https://stroje.bazos.sk/cistiace/"
+            },
+            {
+                "name": "Drevoobr\u00e1bacie stroje",
+                "url": "https://stroje.bazos.sk/drevoobrabacie/"
+            },
+            {
+                "name": "Gener\u00e1tory",
+                "url": "https://stroje.bazos.sk/generatory/"
+            },
+            {
+                "name": "Historick\u00e9 stroje",
+                "url": "https://stroje.bazos.sk/historicke/"
+            },
+            {
+                "name": "Motory",
+                "url": "https://stroje.bazos.sk/motory/"
+            },
+            {
+                "name": "Kovoobr\u00e1bacie stroje",
+                "url": "https://stroje.bazos.sk/kovoobrabacie/"
+            },
+            {
+                "name": "Po\u013enohospod\u00e1rska technika",
+                "url": "https://stroje.bazos.sk/polnohospodarska/"
+            },
+            {
+                "name": "Potravin\u00e1rske stroje",
+                "url": "https://stroje.bazos.sk/potravinarske/"
+            },
+            {
+                "name": "Skladov\u00e1 technika",
+                "url": "https://stroje.bazos.sk/skladova/"
+            },
+            {
+                "name": "Stavebn\u00e9 stroje",
+                "url": "https://stroje.bazos.sk/stavebne/"
+            },
+            {
+                "name": "Textiln\u00e9 stroje",
+                "url": "https://stroje.bazos.sk/textilne/"
+            },
+            {
+                "name": "Tla\u010diarensk\u00e9 stroje",
+                "url": "https://stroje.bazos.sk/tlaciarenske/"
+            },
+            {
+                "name": "Vybavenie prev\u00e1dzkarne",
+                "url": "https://stroje.bazos.sk/prevadzkarne/"
+            },
+            {
+                "name": "V\u00fdrobn\u00e1 linka",
+                "url": "https://stroje.bazos.sk/linka/"
+            },
+            {
+                "name": "N\u00e1hradn\u00e9 diely",
+                "url": "https://stroje.bazos.sk/diely/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://stroje.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Dom a z\u00e1hrada",
+        "url": "https://dom.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/dom.png",
+        "sub_categories": [
+            {
+                "name": "Baz\u00e9ny",
+                "url": "https://dom.bazos.sk/bazeny/"
+            },
+            {
+                "name": "\u010cerpadl\u00e1",
+                "url": "https://dom.bazos.sk/cerpadla/"
+            },
+            {
+                "name": "Dvere, br\u00e1ny",
+                "url": "https://dom.bazos.sk/dvere/"
+            },
+            {
+                "name": "Klimatiz\u00e1cie",
+                "url": "https://dom.bazos.sk/klimatizacie/"
+            },
+            {
+                "name": "Kosa\u010dky",
+                "url": "https://dom.bazos.sk/kosacky/"
+            },
+            {
+                "name": "Kotle, Kachle, Bojlery",
+                "url": "https://dom.bazos.sk/kotle/"
+            },
+            {
+                "name": "Malotraktory, Kultiv\u00e1tory",
+                "url": "https://dom.bazos.sk/malotraktory/"
+            },
+            {
+                "name": "Mie\u0161a\u010dky",
+                "url": "https://dom.bazos.sk/miesacky/"
+            },
+            {
+                "name": "N\u00e1radie",
+                "url": "https://dom.bazos.sk/naradie/"
+            },
+            {
+                "name": "Okn\u00e1",
+                "url": "https://dom.bazos.sk/okna/"
+            },
+            {
+                "name": "P\u00edly",
+                "url": "https://dom.bazos.sk/pily/"
+            },
+            {
+                "name": "Sne\u017en\u00e1 technika",
+                "url": "https://dom.bazos.sk/snezna/"
+            },
+            {
+                "name": "Stavebn\u00fd materi\u00e1l",
+                "url": "https://dom.bazos.sk/stavebny/"
+            },
+            {
+                "name": "Radi\u00e1tory",
+                "url": "https://dom.bazos.sk/radiatory/"
+            },
+            {
+                "name": "Rastliny",
+                "url": "https://dom.bazos.sk/rastliny/"
+            },
+            {
+                "name": "Vybavenie dielne",
+                "url": "https://dom.bazos.sk/vybavenie/"
+            },
+            {
+                "name": "Vys\u00e1va\u010de/F\u00faka\u010de",
+                "url": "https://dom.bazos.sk/vysavace/"
+            },
+            {
+                "name": "Z\u00e1hradn\u00e9 grily",
+                "url": "https://dom.bazos.sk/grily/"
+            },
+            {
+                "name": "Z\u00e1hradn\u00fd n\u00e1bytok",
+                "url": "https://dom.bazos.skhttps://nabytok.bazos.sk/zahradny/"
+            },
+            {
+                "name": "Z\u00e1hradn\u00e1 technika",
+                "url": "https://dom.bazos.sk/technika/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://dom.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "PC",
+        "url": "https://pc.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/pc.png",
+        "sub_categories": [
+            {
+                "name": "DVD, Blu-ray mechaniky",
+                "url": "https://pc.bazos.sk/cd/"
+            },
+            {
+                "name": "Fotoapar\u00e1ty",
+                "url": "https://pc.bazos.skhttps://foto.bazos.sk/"
+            },
+            {
+                "name": "GPS navig\u00e1cia",
+                "url": "https://pc.bazos.sk/gps/"
+            },
+            {
+                "name": "Grafick\u00e9 karty",
+                "url": "https://pc.bazos.sk/graficka/"
+            },
+            {
+                "name": "Hard disky, SSD",
+                "url": "https://pc.bazos.sk/hdd/"
+            },
+            {
+                "name": "Hern\u00e9 konzoly",
+                "url": "https://pc.bazos.sk/playstation/"
+            },
+            {
+                "name": "Hern\u00e9 zariadenia",
+                "url": "https://pc.bazos.sk/volanty/"
+            },
+            {
+                "name": "Hry",
+                "url": "https://pc.bazos.sk/hry/"
+            },
+            {
+                "name": "Chladi\u010de",
+                "url": "https://pc.bazos.sk/chladic/"
+            },
+            {
+                "name": "Kl\u00e1vesnice, my\u0161i",
+                "url": "https://pc.bazos.sk/mys/"
+            },
+            {
+                "name": "Kop\u00edrovacie stroje",
+                "url": "https://pc.bazos.sk/kopirka/"
+            },
+            {
+                "name": "Mobiln\u00e9 telef\u00f3ny",
+                "url": "https://pc.bazos.skhttps://mobil.bazos.sk"
+            },
+            {
+                "name": "Modemy",
+                "url": "https://pc.bazos.sk/modem/"
+            },
+            {
+                "name": "LCD monitory",
+                "url": "https://pc.bazos.sk/monitor/"
+            },
+            {
+                "name": "MP3 prehr\u00e1va\u010de",
+                "url": "https://pc.bazos.sk/mp3/"
+            },
+            {
+                "name": "Notebooky",
+                "url": "https://pc.bazos.sk/notebook/"
+            },
+            {
+                "name": "Pam\u00e4te",
+                "url": "https://pc.bazos.sk/pamet/"
+            },
+            {
+                "name": "PC, Po\u010d\u00edta\u010de",
+                "url": "https://pc.bazos.sk/pc/"
+            },
+            {
+                "name": "Procesory",
+                "url": "https://pc.bazos.sk/procesor/"
+            },
+            {
+                "name": "Sie\u0165ov\u00e9 komponenty",
+                "url": "https://pc.bazos.sk/sit/"
+            },
+            {
+                "name": "Scanery",
+                "url": "https://pc.bazos.sk/scaner/"
+            },
+            {
+                "name": "Skrine, zdroje",
+                "url": "https://pc.bazos.sk/case/"
+            },
+            {
+                "name": "Software",
+                "url": "https://pc.bazos.sk/software/"
+            },
+            {
+                "name": "Spotrebn\u00fd materi\u00e1l",
+                "url": "https://pc.bazos.sk/spotrebny/"
+            },
+            {
+                "name": "Tablety, E-\u010d\u00edta\u010dky",
+                "url": "https://pc.bazos.sk/tablet/"
+            },
+            {
+                "name": "Tla\u010diarne",
+                "url": "https://pc.bazos.sk/tlaciaren/"
+            },
+            {
+                "name": "Wireless, WiFi",
+                "url": "https://pc.bazos.sk/wifi/"
+            },
+            {
+                "name": "Z\u00e1kladn\u00e9 dosky",
+                "url": "https://pc.bazos.sk/motherboard/"
+            },
+            {
+                "name": "Z\u00e1lo\u017en\u00e9 zdroje",
+                "url": "https://pc.bazos.sk/ups/"
+            },
+            {
+                "name": "Zvukov\u00e9 karty",
+                "url": "https://pc.bazos.sk/sound/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://pc.bazos.sk/ostatni/"
+            }
+        ]
+    },
+    {
+        "name": "Mobily",
+        "url": "https://mobil.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/mobil.png",
+        "sub_categories": [
+            {
+                "name": "Apple",
+                "url": "https://mobil.bazos.sk/apple/"
+            },
+            {
+                "name": "HTC",
+                "url": "https://mobil.bazos.sk/htc/"
+            },
+            {
+                "name": "Huawei, Honor",
+                "url": "https://mobil.bazos.sk/huawei/"
+            },
+            {
+                "name": "LG",
+                "url": "https://mobil.bazos.sk/lg/"
+            },
+            {
+                "name": "Motorola, Lenovo",
+                "url": "https://mobil.bazos.sk/motorola/"
+            },
+            {
+                "name": "Nokia, Microsoft",
+                "url": "https://mobil.bazos.sk/nokia/"
+            },
+            {
+                "name": "Samsung",
+                "url": "https://mobil.bazos.sk/samsung/"
+            },
+            {
+                "name": "Sony",
+                "url": "https://mobil.bazos.sk/ericsson/"
+            },
+            {
+                "name": "Xiaomi",
+                "url": "https://mobil.bazos.sk/xiaomi/"
+            },
+            {
+                "name": "Ostatn\u00e9 zna\u010dky",
+                "url": "https://mobil.bazos.sk/mobily/"
+            },
+            {
+                "name": "Bat\u00e9rie",
+                "url": "https://mobil.bazos.sk/baterie/"
+            },
+            {
+                "name": "Bezdr\u00f4tov\u00e9 telef\u00f3ny",
+                "url": "https://mobil.bazos.sk/bezdrotove/"
+            },
+            {
+                "name": "D\u00e1tov\u00e9 kabely",
+                "url": "https://mobil.bazos.sk/kabely/"
+            },
+            {
+                "name": "Faxy",
+                "url": "https://mobil.bazos.sk/faxy/"
+            },
+            {
+                "name": "GPS navig\u00e1cia",
+                "url": "https://mobil.bazos.skhttps://pc.bazos.sk/gps/"
+            },
+            {
+                "name": "Headsety",
+                "url": "https://mobil.bazos.sk/headsety/"
+            },
+            {
+                "name": "HF Sady do auta",
+                "url": "https://mobil.bazos.sk/hf/"
+            },
+            {
+                "name": "Inteligentn\u00e9 hodinky",
+                "url": "https://mobil.bazos.sk/smartwatch/"
+            },
+            {
+                "name": "Klasick\u00e9 telef\u00f3ny",
+                "url": "https://mobil.bazos.sk/telefony/"
+            },
+            {
+                "name": "Kryty",
+                "url": "https://mobil.bazos.sk/kryty/"
+            },
+            {
+                "name": "Nab\u00edja\u010dky",
+                "url": "https://mobil.bazos.sk/nabijacky/"
+            },
+            {
+                "name": "Pam\u00e4\u0165ov\u00e9 karty",
+                "url": "https://mobil.bazos.sk/karty/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://mobil.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Foto",
+        "url": "https://foto.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/foto.png",
+        "sub_categories": [
+            {
+                "name": "Anal\u00f3gov\u00e9 fotoapar\u00e1ty",
+                "url": "https://foto.bazos.sk/kinofilm/"
+            },
+            {
+                "name": "Digit\u00e1lne fotoapar\u00e1ty",
+                "url": "https://foto.bazos.sk/digitalne/"
+            },
+            {
+                "name": "Drony",
+                "url": "https://foto.bazos.sk/drony/"
+            },
+            {
+                "name": "Videokamery",
+                "url": "https://foto.bazos.sk/videokamery/"
+            },
+            {
+                "name": "Zrkadlovky",
+                "url": "https://foto.bazos.sk/zrkadlovky/"
+            },
+            {
+                "name": "Bat\u00e9rie",
+                "url": "https://foto.bazos.sk/baterie/"
+            },
+            {
+                "name": "Blesky a osvetlenie",
+                "url": "https://foto.bazos.sk/blesky/"
+            },
+            {
+                "name": "Bra\u0161ne a p\u00fazdra",
+                "url": "https://foto.bazos.sk/brasne/"
+            },
+            {
+                "name": "D\u00e1tov\u00e9 k\u00e1ble",
+                "url": "https://foto.bazos.sk/kable/"
+            },
+            {
+                "name": "Filtre",
+                "url": "https://foto.bazos.sk/filtre/"
+            },
+            {
+                "name": "Nab\u00edja\u010dky",
+                "url": "https://foto.bazos.sk/nabijacky/"
+            },
+            {
+                "name": "Objekt\u00edvy",
+                "url": "https://foto.bazos.sk/objektivy/"
+            },
+            {
+                "name": "Pam\u00e4\u0165ov\u00e9 karty",
+                "url": "https://foto.bazos.sk/karty/"
+            },
+            {
+                "name": "Stat\u00edvy",
+                "url": "https://foto.bazos.sk/stativy/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://foto.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Elektro",
+        "url": "https://elektro.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/elektro.png",
+        "sub_categories": [
+            {
+                "name": "Digestory",
+                "url": "https://elektro.bazos.sk/digestory/"
+            },
+            {
+                "name": "Chladni\u010dky",
+                "url": "https://elektro.bazos.sk/chladnicky/"
+            },
+            {
+                "name": "Mikrovlnn\u00e9 r\u00fary",
+                "url": "https://elektro.bazos.sk/mikrovlnky/"
+            },
+            {
+                "name": "Mrazni\u010dky",
+                "url": "https://elektro.bazos.sk/mraznicky/"
+            },
+            {
+                "name": "Pr\u00e1\u010dky",
+                "url": "https://elektro.bazos.sk/pracky/"
+            },
+            {
+                "name": "Spor\u00e1ky",
+                "url": "https://elektro.bazos.sk/sporaky/"
+            },
+            {
+                "name": "Su\u0161i\u010dky",
+                "url": "https://elektro.bazos.sk/susicky/"
+            },
+            {
+                "name": "Um\u00fdva\u010dky riadu",
+                "url": "https://elektro.bazos.sk/umyvacky/"
+            },
+            {
+                "name": "Ostatn\u00e9 - biela",
+                "url": "https://elektro.bazos.sk/ostatnebila/"
+            },
+            {
+                "name": "Autor\u00e1di\u00e1",
+                "url": "https://elektro.bazos.sk/autoradia/"
+            },
+            {
+                "name": "Dom\u00e1ce kin\u00e1",
+                "url": "https://elektro.bazos.sk/kina/"
+            },
+            {
+                "name": "Fotoapar\u00e1ty",
+                "url": "https://elektro.bazos.skhttps://foto.bazos.sk/"
+            },
+            {
+                "name": "GPS navig\u00e1cia",
+                "url": "https://elektro.bazos.skhttps://pc.bazos.sk/gps/"
+            },
+            {
+                "name": "Hifi syst\u00e9my, R\u00e1di\u00e1",
+                "url": "https://elektro.bazos.sk/hifi/"
+            },
+            {
+                "name": "Hudobn\u00e9 n\u00e1stroje",
+                "url": "https://elektro.bazos.skhttps://hudba.bazos.sk"
+            },
+            {
+                "name": "MP3 p\u0159ehr\u00e1va\u010de",
+                "url": "https://elektro.bazos.skhttps://pc.bazos.sk/mp3/"
+            },
+            {
+                "name": "Projektory",
+                "url": "https://elektro.bazos.sk/projektory/"
+            },
+            {
+                "name": "Repro s\u00fastavy",
+                "url": "https://elektro.bazos.sk/repro/"
+            },
+            {
+                "name": "Sl\u00fachadl\u00e1",
+                "url": "https://elektro.bazos.sk/sluchadla/"
+            },
+            {
+                "name": "Telev\u00edzory",
+                "url": "https://elektro.bazos.sk/televizory/"
+            },
+            {
+                "name": "Video, DVD prehr\u00e1va\u010de",
+                "url": "https://elektro.bazos.sk/dvd/"
+            },
+            {
+                "name": "Videokamery",
+                "url": "https://elektro.bazos.skhttps://foto.bazos.sk/videokamery/"
+            },
+            {
+                "name": "Zosil\u0148ova\u010de",
+                "url": "https://elektro.bazos.sk/zosilnovace/"
+            },
+            {
+                "name": "Ostatn\u00e9 audio video",
+                "url": "https://elektro.bazos.sk/ostatneav/"
+            },
+            {
+                "name": "Epil\u00e1tory, Depil\u00e1tory",
+                "url": "https://elektro.bazos.sk/depilatory/"
+            },
+            {
+                "name": "F\u00e9ny, Kulmy",
+                "url": "https://elektro.bazos.sk/feny/"
+            },
+            {
+                "name": "Holiace stroj\u010deky",
+                "url": "https://elektro.bazos.sk/holiace/"
+            },
+            {
+                "name": "K\u00e1vovary",
+                "url": "https://elektro.bazos.sk/kavovary/"
+            },
+            {
+                "name": "Nab\u00edja\u010dky bat\u00e9ri\u00ed",
+                "url": "https://elektro.bazos.sk/nabijacky/"
+            },
+            {
+                "name": "Ru\u010dn\u00e9 \u0161\u013eaha\u010de, Mix\u00e9ry",
+                "url": "https://elektro.bazos.sk/mixery/"
+            },
+            {
+                "name": "Svietidl\u00e1, Lampy",
+                "url": "https://elektro.bazos.sk/lampy/"
+            },
+            {
+                "name": "\u0160ijacie stroje",
+                "url": "https://elektro.bazos.sk/sijacie/"
+            },
+            {
+                "name": "Vys\u00e1va\u010de",
+                "url": "https://elektro.bazos.sk/vysavace/"
+            },
+            {
+                "name": "Vysiela\u010dky",
+                "url": "https://elektro.bazos.sk/vysielacky/"
+            },
+            {
+                "name": "Zvlh\u010dova\u010de vzduchu",
+                "url": "https://elektro.bazos.sk/zvlhcovace/"
+            },
+            {
+                "name": "\u017dehli\u010dky",
+                "url": "https://elektro.bazos.sk/zehlicky/"
+            },
+            {
+                "name": "Ostatn\u00e9 drobn\u00e9",
+                "url": "https://elektro.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "\u0160port",
+        "url": "https://sport.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/sport.png",
+        "sub_categories": [
+            {
+                "name": "Fitness, jogging",
+                "url": "https://sport.bazos.sk/fitness/"
+            },
+            {
+                "name": "Golf",
+                "url": "https://sport.bazos.sk/golf/"
+            },
+            {
+                "name": "Futbal",
+                "url": "https://sport.bazos.sk/futbal/"
+            },
+            {
+                "name": "In-lines, Skateboarding",
+                "url": "https://sport.bazos.sk/korcule/"
+            },
+            {
+                "name": "Kemping",
+                "url": "https://sport.bazos.sk/kemping/"
+            },
+            {
+                "name": "Letectvo",
+                "url": "https://sport.bazos.sk/letectvo/"
+            },
+            {
+                "name": "Loptov\u00e9 hry",
+                "url": "https://sport.bazos.sk/loptove/"
+            },
+            {
+                "name": "Po\u013eovn\u00edctvo, lov",
+                "url": "https://sport.bazos.sk/lov/"
+            },
+            {
+                "name": "Paintball",
+                "url": "https://sport.bazos.sk/paintball/"
+            },
+            {
+                "name": "Rybolov",
+                "url": "https://sport.bazos.sk/rybareni/"
+            },
+            {
+                "name": "Spolo\u010densk\u00e9 hry",
+                "url": "https://sport.bazos.sk/hry/"
+            },
+            {
+                "name": "Tenis, squash, badminton",
+                "url": "https://sport.bazos.sk/tenis/"
+            },
+            {
+                "name": "Turistika, horolezectvo",
+                "url": "https://sport.bazos.sk/turistika/"
+            },
+            {
+                "name": "Vodn\u00e9 \u0161porty, pot\u00e1panie",
+                "url": "https://sport.bazos.sk/vodni/"
+            },
+            {
+                "name": "V\u0161etko ostatn\u00e9",
+                "url": "https://sport.bazos.sk/ostatni/"
+            },
+            {
+                "name": "Detsk\u00e9 bicykle",
+                "url": "https://sport.bazos.skhttps://deti.bazos.sk/bicykle/"
+            },
+            {
+                "name": "Kolobe\u017eky",
+                "url": "https://sport.bazos.sk/kolobezky/"
+            },
+            {
+                "name": "Horsk\u00e9 bicykle",
+                "url": "https://sport.bazos.sk/horska/"
+            },
+            {
+                "name": "Cestn\u00e9 bicykle",
+                "url": "https://sport.bazos.sk/cestne/"
+            },
+            {
+                "name": "S\u00fa\u010diastky a diely",
+                "url": "https://sport.bazos.sk/soucastky/"
+            },
+            {
+                "name": "Ostatn\u00e1 cyklistika",
+                "url": "https://sport.bazos.sk/cyklistika/"
+            },
+            {
+                "name": "Be\u017ekovanie",
+                "url": "https://sport.bazos.sk/bezky/"
+            },
+            {
+                "name": "Ly\u017eovanie",
+                "url": "https://sport.bazos.sk/lyze/"
+            },
+            {
+                "name": "Skialpy",
+                "url": "https://sport.bazos.sk/skialpy/"
+            },
+            {
+                "name": "Snowboarding",
+                "url": "https://sport.bazos.sk/snowboard/"
+            },
+            {
+                "name": "Hokej, kor\u010du\u013eovanie",
+                "url": "https://sport.bazos.sk/hokej/"
+            },
+            {
+                "name": "Ostatn\u00e9 zimn\u00e9",
+                "url": "https://sport.bazos.sk/zimni/"
+            }
+        ]
+    },
+    {
+        "name": "Hudba",
+        "url": "https://hudba.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/hudba.png",
+        "sub_categories": [
+            {
+                "name": "Bicie n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/bicie/"
+            },
+            {
+                "name": "Dychov\u00e9 n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/dychove/"
+            },
+            {
+                "name": "Kl\u00e1vesov\u00e9 n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/klavesove/"
+            },
+            {
+                "name": "Sl\u00e1\u010dikov\u00e9 n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/slacikove/"
+            },
+            {
+                "name": "Strunov\u00e9 n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/strunove/"
+            },
+            {
+                "name": "Ostatn\u00e9 n\u00e1stroje",
+                "url": "https://hudba.bazos.sk/nastroje/"
+            },
+            {
+                "name": "DVD, CD, MC, LP",
+                "url": "https://hudba.bazos.sk/nahravky/"
+            },
+            {
+                "name": "Hudobn\u00edci a skupiny",
+                "url": "https://hudba.bazos.sk/skupiny/"
+            },
+            {
+                "name": "Koncerty",
+                "url": "https://hudba.bazos.sk/koncerty/"
+            },
+            {
+                "name": "V\u00fduka hudby",
+                "url": "https://hudba.bazos.skhttps://sluzby.bazos.sk/vyuka/"
+            },
+            {
+                "name": "Noty, texty",
+                "url": "https://hudba.bazos.sk/noty/"
+            },
+            {
+                "name": "Sk\u00fa\u0161obne",
+                "url": "https://hudba.bazos.sk/skusobne/"
+            },
+            {
+                "name": "Sveteln\u00e1 technika",
+                "url": "https://hudba.bazos.sk/svetelna/"
+            },
+            {
+                "name": "Vstupenky",
+                "url": "https://hudba.bazos.skhttps://vstupenky.bazos.sk/hudba/"
+            },
+            {
+                "name": "Zvukov\u00e1 technika",
+                "url": "https://hudba.bazos.sk/zvukova/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://hudba.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Vstupenky",
+        "url": "https://vstupenky.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/vstupenky.png",
+        "sub_categories": [
+            {
+                "name": "Dar\u010dekov\u00e9 pouk\u00e1\u017eky",
+                "url": "https://vstupenky.bazos.sk/poukazky/"
+            },
+            {
+                "name": "Dia\u013eni\u010dn\u00e9 zn\u00e1mky",
+                "url": "https://vstupenky.bazos.sk/znamky/"
+            },
+            {
+                "name": "Cestovn\u00e9 l\u00edstky",
+                "url": "https://vstupenky.bazos.sk/listky/"
+            },
+            {
+                "name": "Letenky",
+                "url": "https://vstupenky.bazos.sk/letenky/"
+            },
+            {
+                "name": "Permanentky",
+                "url": "https://vstupenky.bazos.sk/permanentky/"
+            },
+            {
+                "name": "Divadlo",
+                "url": "https://vstupenky.bazos.sk/divadlo/"
+            },
+            {
+                "name": "Festivaly",
+                "url": "https://vstupenky.bazos.sk/festivaly/"
+            },
+            {
+                "name": "Hudba, Koncerty",
+                "url": "https://vstupenky.bazos.sk/hudba/"
+            },
+            {
+                "name": "Pre deti",
+                "url": "https://vstupenky.bazos.sk/deti/"
+            },
+            {
+                "name": "Spolo\u010densk\u00e9 akcie",
+                "url": "https://vstupenky.bazos.sk/spolocenske/"
+            },
+            {
+                "name": "\u0160port",
+                "url": "https://vstupenky.bazos.sk/sport/"
+            },
+            {
+                "name": "V\u00fdstavy",
+                "url": "https://vstupenky.bazos.sk/vystavy/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://vstupenky.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Knihy",
+        "url": "https://knihy.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/knihy.png",
+        "sub_categories": [
+            {
+                "name": "Beletria",
+                "url": "https://knihy.bazos.sk/beletria/"
+            },
+            {
+                "name": "Cudzojazy\u010dn\u00e1 literat\u00fara",
+                "url": "https://knihy.bazos.sk/cudzojazycna/"
+            },
+            {
+                "name": "\u010casopisy",
+                "url": "https://knihy.bazos.sk/casopisy/"
+            },
+            {
+                "name": "Detekt\u00edvky",
+                "url": "https://knihy.bazos.sk/detektivky/"
+            },
+            {
+                "name": "Detsk\u00e1 literat\u00fara",
+                "url": "https://knihy.bazos.sk/detska/"
+            },
+            {
+                "name": "Dr\u00e1ma",
+                "url": "https://knihy.bazos.sk/drama/"
+            },
+            {
+                "name": "Encyklop\u00e9die",
+                "url": "https://knihy.bazos.sk/encyklopedie/"
+            },
+            {
+                "name": "Ezoterika",
+                "url": "https://knihy.bazos.sk/ezoterika/"
+            },
+            {
+                "name": "Historick\u00e9 rom\u00e1ny",
+                "url": "https://knihy.bazos.sk/historicke/"
+            },
+            {
+                "name": "Hobby, odborn\u00e9 knihy",
+                "url": "https://knihy.bazos.sk/hobby/"
+            },
+            {
+                "name": "Kuch\u00e1rky",
+                "url": "https://knihy.bazos.sk/kucharky/"
+            },
+            {
+                "name": "Mapy, cestovanie",
+                "url": "https://knihy.bazos.sk/mapy/"
+            },
+            {
+                "name": "Po\u010d\u00edta\u010dov\u00e1 literat\u00fara",
+                "url": "https://knihy.bazos.sk/pocitacova/"
+            },
+            {
+                "name": "Pre ml\u00e1de\u017e",
+                "url": "https://knihy.bazos.sk/mladez/"
+            },
+            {
+                "name": "Rom\u00e1ny pre \u017eeny",
+                "url": "https://knihy.bazos.sk/zeny/"
+            },
+            {
+                "name": "Sci-fi, Fantasy",
+                "url": "https://knihy.bazos.sk/scifi/"
+            },
+            {
+                "name": "U\u010debnice, skript\u00e1 - Z\u0160",
+                "url": "https://knihy.bazos.sk/ucebnicezs/"
+            },
+            {
+                "name": "U\u010debnice, skript\u00e1 - S\u0160",
+                "url": "https://knihy.bazos.sk/ucebnice/"
+            },
+            {
+                "name": "U\u010debnice, skript\u00e1 - V\u0160",
+                "url": "https://knihy.bazos.sk/skripta/"
+            },
+            {
+                "name": "U\u010debnice, skript\u00e1 - Jazykov\u00e9",
+                "url": "https://knihy.bazos.sk/ucebnicejazykove/"
+            },
+            {
+                "name": "Z\u00e1bavn\u00e1 literat\u00fara",
+                "url": "https://knihy.bazos.sk/zabavna/"
+            },
+            {
+                "name": "Zdrav\u00fd \u017eivotn\u00fd \u0161t\u00fdl",
+                "url": "https://knihy.bazos.sk/zdravi/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://knihy.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "N\u00e1bytok",
+        "url": "https://nabytok.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/nabytok.png",
+        "sub_categories": [
+            {
+                "name": "Detsk\u00fd n\u00e1bytok",
+                "url": "https://nabytok.bazos.skhttps://deti.bazos.sk/nabytok/"
+            },
+            {
+                "name": "Dvere, br\u00e1ny",
+                "url": "https://nabytok.bazos.skhttps://dom.bazos.sk/dvere/"
+            },
+            {
+                "name": "Jed\u00e1lensk\u00e9 k\u00faty",
+                "url": "https://nabytok.bazos.sk/jedalenske/"
+            },
+            {
+                "name": "Kni\u017enice",
+                "url": "https://nabytok.bazos.sk/kniznice/"
+            },
+            {
+                "name": "Koberce a podlahov\u00e1 krytina",
+                "url": "https://nabytok.bazos.sk/koberce/"
+            },
+            {
+                "name": "Kresl\u00e1 a gau\u010de",
+                "url": "https://nabytok.bazos.sk/kresla/"
+            },
+            {
+                "name": "Kuchyne",
+                "url": "https://nabytok.bazos.sk/kuchyne/"
+            },
+            {
+                "name": "K\u00fape\u013ene",
+                "url": "https://nabytok.bazos.sk/kupelne/"
+            },
+            {
+                "name": "Lampy, osvetlenie",
+                "url": "https://nabytok.bazos.sk/lampy/"
+            },
+            {
+                "name": "Matrace",
+                "url": "https://nabytok.bazos.sk/matrace/"
+            },
+            {
+                "name": "Ob\u00fdvacie steny",
+                "url": "https://nabytok.bazos.sk/obyvacie/"
+            },
+            {
+                "name": "Postele",
+                "url": "https://nabytok.bazos.sk/postele/"
+            },
+            {
+                "name": "Sedacie s\u00fapravy",
+                "url": "https://nabytok.bazos.sk/sedacie/"
+            },
+            {
+                "name": "Skrine",
+                "url": "https://nabytok.bazos.sk/skrine/"
+            },
+            {
+                "name": "Sp\u00e1lne",
+                "url": "https://nabytok.bazos.sk/spalne/"
+            },
+            {
+                "name": "Stoli\u010dky",
+                "url": "https://nabytok.bazos.sk/stolicky/"
+            },
+            {
+                "name": "Stoly",
+                "url": "https://nabytok.bazos.sk/stoly/"
+            },
+            {
+                "name": "Z\u00e1hradn\u00fd n\u00e1bytok",
+                "url": "https://nabytok.bazos.sk/zahradny/"
+            },
+            {
+                "name": "Doplnky",
+                "url": "https://nabytok.bazos.sk/doplnky/"
+            },
+            {
+                "name": "Ostatn\u00fd n\u00e1bytok",
+                "url": "https://nabytok.bazos.sk/nabytok/"
+            }
+        ]
+    },
+    {
+        "name": "Oble\u010denie",
+        "url": "https://oblecenie.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/oblecenie.png",
+        "sub_categories": [
+            {
+                "name": "Bl\u00fazky",
+                "url": "https://oblecenie.bazos.sk/bluzky/"
+            },
+            {
+                "name": "Bundy a Kab\u00e1ty",
+                "url": "https://oblecenie.bazos.sk/bundy/"
+            },
+            {
+                "name": "\u010ciapky, \u0160atky",
+                "url": "https://oblecenie.bazos.sk/ciapky/"
+            },
+            {
+                "name": "D\u017e\u00ednsy",
+                "url": "https://oblecenie.bazos.sk/dzinsy/"
+            },
+            {
+                "name": "Funk\u010dn\u00e9 pr\u00e1dlo",
+                "url": "https://oblecenie.bazos.sk/pradlo/"
+            },
+            {
+                "name": "Ko\u0161ele",
+                "url": "https://oblecenie.bazos.sk/kosele/"
+            },
+            {
+                "name": "Ko\u017een\u00e9 oble\u010denie",
+                "url": "https://oblecenie.bazos.sk/kozene/"
+            },
+            {
+                "name": "Mikiny",
+                "url": "https://oblecenie.bazos.sk/mikiny/"
+            },
+            {
+                "name": "Nohavice",
+                "url": "https://oblecenie.bazos.sk/nohavice/"
+            },
+            {
+                "name": "Obleky, Sak\u00e1",
+                "url": "https://oblecenie.bazos.sk/obleky/"
+            },
+            {
+                "name": "Plavky",
+                "url": "https://oblecenie.bazos.sk/plavky/"
+            },
+            {
+                "name": "Rukavice a \u0160\u00e1ly",
+                "url": "https://oblecenie.bazos.sk/rukavice/"
+            },
+            {
+                "name": "R\u00fa\u0161ka",
+                "url": "https://oblecenie.bazos.sk/ruska/"
+            },
+            {
+                "name": "Spodn\u00e1 bielize\u0148",
+                "url": "https://oblecenie.bazos.sk/bielizen/"
+            },
+            {
+                "name": "Sukne",
+                "url": "https://oblecenie.bazos.sk/sukne/"
+            },
+            {
+                "name": "Svadobn\u00e9 \u0161aty",
+                "url": "https://oblecenie.bazos.sk/svadobne/"
+            },
+            {
+                "name": "Svetre",
+                "url": "https://oblecenie.bazos.sk/svetre/"
+            },
+            {
+                "name": "\u0160aty, Kost\u00fdmy",
+                "url": "https://oblecenie.bazos.sk/saty/"
+            },
+            {
+                "name": "\u0160ortky",
+                "url": "https://oblecenie.bazos.sk/sortky/"
+            },
+            {
+                "name": "\u0160portov\u00e9 oble\u010denie",
+                "url": "https://oblecenie.bazos.sk/sportove/"
+            },
+            {
+                "name": "Tehotensk\u00e9 oble\u010denie",
+                "url": "https://oblecenie.bazos.sk/tehulky/"
+            },
+            {
+                "name": "Tri\u010dk\u00e1, rol\u00e1ky, tielka",
+                "url": "https://oblecenie.bazos.sk/tricka/"
+            },
+            {
+                "name": "Doplnky",
+                "url": "https://oblecenie.bazos.sk/doplnky/"
+            },
+            {
+                "name": "Hodinky",
+                "url": "https://oblecenie.bazos.sk/hodinky/"
+            },
+            {
+                "name": "Kabelky",
+                "url": "https://oblecenie.bazos.sk/kabelky/"
+            },
+            {
+                "name": "Plecniaky a kufre",
+                "url": "https://oblecenie.bazos.sk/plecniaky/"
+            },
+            {
+                "name": "Top\u00e1nky, obuv",
+                "url": "https://oblecenie.bazos.sk/obuv/"
+            },
+            {
+                "name": "\u0160perky",
+                "url": "https://oblecenie.bazos.sk/sperky/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://oblecenie.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Slu\u017eby",
+        "url": "https://sluzby.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/sluzby.png",
+        "sub_categories": [
+            {
+                "name": "Auto Moto",
+                "url": "https://sluzby.bazos.sk/automoto/"
+            },
+            {
+                "name": "Cestovanie",
+                "url": "https://sluzby.bazos.sk/cestovanie/"
+            },
+            {
+                "name": "Dom\u00e1ce pr\u00e1ce",
+                "url": "https://sluzby.bazos.sk/domaca/"
+            },
+            {
+                "name": "Ezoterika",
+                "url": "https://sluzby.bazos.sk/ezoterika/"
+            },
+            {
+                "name": "IT, webdesign",
+                "url": "https://sluzby.bazos.sk/it/"
+            },
+            {
+                "name": "Kone - slu\u017eby",
+                "url": "https://sluzby.bazos.sk/ustajnenie/"
+            },
+            {
+                "name": "Kurzy a \u0161kolenia",
+                "url": "https://sluzby.bazos.sk/skolenia/"
+            },
+            {
+                "name": "Opravy a servis",
+                "url": "https://sluzby.bazos.sk/opravy/"
+            },
+            {
+                "name": "Organizovanie akci\u00ed",
+                "url": "https://sluzby.bazos.sk/organizovanie/"
+            },
+            {
+                "name": "Po\u017ei\u010dovne",
+                "url": "https://sluzby.bazos.sk/pozicovne/"
+            },
+            {
+                "name": "Pr\u00e1vo a bezpe\u010dnos\u0165",
+                "url": "https://sluzby.bazos.sk/pravo/"
+            },
+            {
+                "name": "Prekladate\u013estvo",
+                "url": "https://sluzby.bazos.sk/prekladatelstvo/"
+            },
+            {
+                "name": "Preprava a s\u0165ahovanie",
+                "url": "https://sluzby.bazos.sk/stahovanie/"
+            },
+            {
+                "name": "Realitn\u00e9 slu\u017eby",
+                "url": "https://sluzby.bazos.sk/realitne/"
+            },
+            {
+                "name": "Reklama na auto",
+                "url": "https://sluzby.bazos.sk/reklama/"
+            },
+            {
+                "name": "Reklamn\u00e9 plochy ostatn\u00e9",
+                "url": "https://sluzby.bazos.sk/reklamne/"
+            },
+            {
+                "name": "Remeseln\u00e9 a stavebn\u00e9 pr\u00e1ce",
+                "url": "https://sluzby.bazos.sk/remesla/"
+            },
+            {
+                "name": "Slu\u017eby pre zvierat\u00e1",
+                "url": "https://sluzby.bazos.sk/zvierata/"
+            },
+            {
+                "name": "Sprostredkovate\u013esk\u00e9 slu\u017eby",
+                "url": "https://sluzby.bazos.sk/sprostredkovatelske/"
+            },
+            {
+                "name": "Str\u00e1\u017eenie det\u00ed",
+                "url": "https://sluzby.bazos.sk/strazenie/"
+            },
+            {
+                "name": "Tvoriv\u00e1 pr\u00e1ca",
+                "url": "https://sluzby.bazos.sk/tvoriva/"
+            },
+            {
+                "name": "Ubytovanie",
+                "url": "https://sluzby.bazos.sk/ubytovanie/"
+            },
+            {
+                "name": "\u00da\u010dtovn\u00edctvo, poradenstvo",
+                "url": "https://sluzby.bazos.sk/financne/"
+            },
+            {
+                "name": "Upratovanie",
+                "url": "https://sluzby.bazos.sk/upratovanie/"
+            },
+            {
+                "name": "V\u00fdroba",
+                "url": "https://sluzby.bazos.sk/vyroba/"
+            },
+            {
+                "name": "V\u00fduka, dou\u010dovanie",
+                "url": "https://sluzby.bazos.sk/doucovanie/"
+            },
+            {
+                "name": "V\u00fduka hudby",
+                "url": "https://sluzby.bazos.sk/vyuka/"
+            },
+            {
+                "name": "Zdravie a kr\u00e1sa",
+                "url": "https://sluzby.bazos.sk/zdravie/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://sluzby.bazos.sk/ostatne/"
+            }
+        ]
+    },
+    {
+        "name": "Ostatn\u00e9",
+        "url": "https://ostatne.bazos.sk/",
+        "image": "https://www.bazos.sk/obrazky/ostatne.png",
+        "sub_categories": [
+            {
+                "name": "Mince, bankovky",
+                "url": "https://ostatne.bazos.sk/numizmatika/"
+            },
+            {
+                "name": "Model\u00e1rstvo",
+                "url": "https://ostatne.bazos.sk/modelarstvo/"
+            },
+            {
+                "name": "Potraviny",
+                "url": "https://ostatne.bazos.sk/potraviny/"
+            },
+            {
+                "name": "Sklo, keramika",
+                "url": "https://ostatne.bazos.sk/sklo/"
+            },
+            {
+                "name": "Staro\u017eitnosti",
+                "url": "https://ostatne.bazos.sk/starozitnosti/"
+            },
+            {
+                "name": "\u0160perky, hodinky",
+                "url": "https://ostatne.bazos.skhttps://oblecenie.bazos.sk/sperky/"
+            },
+            {
+                "name": "Umeleck\u00e9 predmety",
+                "url": "https://ostatne.bazos.sk/umelecke/"
+            },
+            {
+                "name": "Zberate\u013estvo",
+                "url": "https://ostatne.bazos.sk/zberatelstvo/"
+            },
+            {
+                "name": "Zdravie a kr\u00e1sa",
+                "url": "https://ostatne.bazos.sk/zdravie/"
+            },
+            {
+                "name": "Zn\u00e1mky, poh\u013eadnice",
+                "url": "https://ostatne.bazos.sk/filatelia/"
+            },
+            {
+                "name": "Ostatn\u00e9",
+                "url": "https://ostatne.bazos.sk/ostatne/"
+            }
+        ]
+    }
+]
